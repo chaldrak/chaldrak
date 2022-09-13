@@ -1,6 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s---OQ8YwXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/dj5iihhqv/image/upload/v1622124539/login-min_lee65u.gif)]()
+<img alt="coding" width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s---OQ8YwXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/dj5iihhqv/image/upload/v1622124539/login-min_lee65u.gif" />
 <h1 align="center">Hi 👋, I'm Chaldrak DOKPA</h1>
 <h3 align="center">A passionate fullstack developer from Benin</h3>
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dumxkdcvd/image/upload/v1663072714/samples/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966_m20pay.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaldrak&label=Profile%20views&color=0e75b6&style=flat" alt="chaldrak" /> </p>
 

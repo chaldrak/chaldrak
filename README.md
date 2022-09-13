@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **VueJs, NodeJS**
 
-- 👨‍💻 All of my projects are available at [myportfolio.com](myportfolio.com)
+- 👨‍💻 All of my projects are available at [myportfolio.com (In development...)](myportfolio.com)
 
-- 📝 I regularly write articles on [myblog.com](myblog.com)
+- 📝 I regularly write articles on [myblog.com (coming soon...)](myblog.com)
 
 - 💬 Ask me about **Rails, SQL, Postgres, HTML, CSS, Tailwindcss, VueJs, JavaScript**
 

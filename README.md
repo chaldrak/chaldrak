@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **VueJs, NodeJS**
 
-- 👨‍💻 All of my projects are available at [myportfolio.com (In development...)](myportfolio.com)
+- 👨‍💻 All of my projects are available at [https://chaldrak-portfolio.vercel.app/](https://chaldrak-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [myblog.com (coming soon...)](myblog.com)
 

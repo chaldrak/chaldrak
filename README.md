@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chaldrakus@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](resume.pdf)
+- 📄 Know about my experiences [resume.pdf](https://chaldrak-portfolio.vercel.app/assets/NEW_CV_ENGLISH%20(1).37cc32ed.pdf)
 
 - ⚡ Fun fact **When I'm coding I think about sleeping and when I'm sleeping I think about coding**
 

@@ -6,19 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/chaldrakus" target="blank"><img src="https://img.shields.io/twitter/follow/chaldrakus?logo=twitter&style=for-the-badge" alt="chaldrakus" /></a> </p>
 
-- 🔭 I’m currently working on [VueJs Website](https://github.com/chaldrak/website-dah-kpeyi)
+- 🔭 I’m currently working on [NextJs Website](https://www.mouvment.com)
 
-- 🌱 I’m currently learning **VueJs, NodeJS**
+- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://chaldrak-portfolio.vercel.app/](https://chaldrak-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://chaldrak-portfolio.vercel.app/](https://www.ledevmatheux.com/)
 
-- 📝 I regularly write articles on [myblog.com (coming soon...)](myblog.com)
-
-- 💬 Ask me about **Rails, SQL, Postgres, HTML, CSS, Tailwindcss, VueJs, JavaScript**
+- 💬 Ask me about **Rails, SQL, Postgres, HTML, CSS, Tailwindcss, VueJs, JavaScript, ReactJs, NextJs**
 
 - 📫 How to reach me **chaldrakus@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](https://chaldrak-portfolio.vercel.app/assets/NEW_CV_ENGLISH%20(1).37cc32ed.pdf)
+- 📄 Know about my experiences [resume.pdf](https://docs.google.com/document/d/1-bW_rBgPiR3LopHM_indlCAxZFDSvaYWgygVBj-KtsI/edit?usp=sharing)
 
 - ⚡ Fun fact **When I'm coding I think about sleeping and when I'm sleeping I think about coding**
 
